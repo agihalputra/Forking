@@ -1,0 +1,9 @@
+Rincian materi :
+1. Dasar-dasar pemrograman
+2. Github
+3. Dasar-dasar Pletter
+4. UI UX
+5. Design Patern
+6. Desain database
+7. Backend
+8. Frontend
